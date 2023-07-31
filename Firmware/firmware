@@ -1,0 +1,2 @@
+MKESC 60100HP is based on Benjamin VESC, so it is fully compatible with VESC native firmware. Firmware downloads are available through the Benjamin VESC github.
+https://github.com/vedderb/bldc
